@@ -63,5 +63,4 @@ public class LeaveRequest {
         this.reason = reason;
     }
     
-    
 }
